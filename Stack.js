@@ -1,3 +1,13 @@
+/**
+ *          [=====] --> Last In First Out
+ *      [=====]
+ *      [=====]
+ *      [=====]     
+ *      [=====]
+ *      [=====] 
+ */
+
+
 class StackList {
     constructor() {
         this.items = [];
